@@ -27,7 +27,7 @@ This project implements a responsive Airbnb listings page using vanilla JavaScri
 
 ### Option 1: Live Demo (Recommended)
 View the deployed version on GitHub Pages here:
-**[Link to Deployment](https://helly.github.io/Airbnb_Listings_Assignment)**
+**[Link to Deployment](https://hellydiyora.github.io/Airbnb_Listings_demo_page/)**
 *(Note: No installation required)*
 
 ### Option 2: Local Development
